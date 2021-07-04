@@ -1,6 +1,5 @@
 # Guidelines-For-Members
 
-## About
 ### Welcome to PASC, this repository contains learning **paths/roadmaps**, **resources** and some **guidelines** for new PASC members so that they can get an kickstart in their development career.
 
 ## Guidelines
