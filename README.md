@@ -11,9 +11,9 @@
 3) Blockchain
 4) Web Devlopment 
 5) Cloud and DevOps
-6) Android Development
+6) [Android Development](https://github.com/PICT-ACM-Student-Chapter/Guidelines-For-Members/blob/main/Android%20Development/README.md)
 7) IOS Development
-8) Flutter Development
+8) [Flutter Development](https://github.com/PICT-ACM-Student-Chapter/Guidelines-For-Members/blob/main/Flutter%20Development/README.md)
 9) Game Development
 
 ## Contribute
