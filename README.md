@@ -9,12 +9,13 @@
 1) Competitive Programming
 2) Machine Learning
 3) Blockchain
-4) Web Devlopment 
+4) [Web Devlopment](https://github.com/PICT-ACM-Student-Chapter/Guidelines-For-Members/blob/main/Web%20Development/README.md)
 5) Cloud and DevOps
 6) [Android Development](https://github.com/PICT-ACM-Student-Chapter/Guidelines-For-Members/blob/main/Android%20Development/README.md)
 7) IOS Development
 8) [Flutter Development](https://github.com/PICT-ACM-Student-Chapter/Guidelines-For-Members/blob/main/Flutter%20Development/README.md)
-9) Game Development
+9) [Game Development](https://github.com/PICT-ACM-Student-Chapter/Guidelines-For-Members/blob/main/Game%20Development/README.md)
+10) [Internet Of Things](https://github.com/PICT-ACM-Student-Chapter/Guidelines-For-Members/blob/main/Internet%20Of%20Things/README.md)
 
 ## Contribute
 ### If you have your own favorite resources (website, video, books, etc.) that relate to this repo, you can create a pull request to help us improve the repo. Thank you! :heart:
