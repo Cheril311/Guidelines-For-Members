@@ -11,8 +11,9 @@
 - For Kotlin exclusively:
     1. [Philipp Lackner](https://www.youtube.com/user/SimplifiedCoding/playlists)
 
-### Course:
+### Courses:
 - [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [Android Development with Java and Kotlin](https://drive.google.com/drive/folders/1XDlXy9PK8kb0zPbEwPmqfpXPl1UQFcW8)
 
 ### Java:
 - [W3Schools](https://www.w3schools.com/java/default.asp)

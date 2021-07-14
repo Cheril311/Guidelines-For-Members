@@ -11,3 +11,6 @@
 
 ### Aggregated Resources:
 - [FlutterX](https://flutterx.com/)
+
+### Courses:
+- [Flutter Developmnt Course by Angela Yu](https://mega.nz/folder/rvwg2LKR#g3M_hUo_eyHFehtJ0sBbUg)
