@@ -7,7 +7,7 @@
 
 ## Domains
 1) Competitive Programming
-2) Machine Learning
+2) [Machine Learning](https://github.com/PICT-ACM-Student-Chapter/Guidelines-For-Members/blob/main/Machine%20Learning/README.md)
 3) Blockchain
 4) [Web Devlopment](https://github.com/PICT-ACM-Student-Chapter/Guidelines-For-Members/blob/main/Web%20Development/README.md)
 5) Cloud and DevOps
